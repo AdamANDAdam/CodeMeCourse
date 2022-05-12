@@ -3,7 +3,6 @@ Body Mass Index calculator
 BMI = (mass (kg)) / (height (m))^2
 '''
 
-
 print('Enter your mass in kg:')
 mass = input()
 
