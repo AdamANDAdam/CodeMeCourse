@@ -13,4 +13,9 @@ for number in range(0, 10):
 print(list_10)
 print(list_10[0] == list_10[9])
 
+# second
+
+numbers = input("Podaj liczby po przecinku")
+numbers = numbers.split(',')
+
 
