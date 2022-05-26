@@ -1,8 +1,16 @@
 
+# task 01
 
-def mood(answer):
-    print('Your mood today is:')
-    print(answer)
+list_book = []
+list_grades = []
+new_input_book = str(input("Insert book name:"))
+new_input_grade = int(input("Book grade:"))
 
-rest = input('How r u?')
-mood(rest)
+for number in range(10):
+    new_book = str(input())
+    list_book.append(new_book)
+    new_grade = int(input())
+    list_grades.append(new_grade)
+
+# task 02
+
