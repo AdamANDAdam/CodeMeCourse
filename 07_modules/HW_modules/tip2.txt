@@ -1,0 +1,1 @@
+B = 'You can just maintain the same diet to preserve your BMI'
